@@ -1,2 +1,2 @@
 flask
-pickle
+pickle-mixin
